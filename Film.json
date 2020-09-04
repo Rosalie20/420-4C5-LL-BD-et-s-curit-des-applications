@@ -18,22 +18,14 @@
     }
   ]
   
-  "Titre": "FightClub",
-  "directeur": "David Fincher",
-  "Auteur": "Chuck Palahniuk",
-  "Date": 1999,
-  "Vedette": [
+   "Films": [
     {
-      "Nom": "Brad Pitt",
-      "Personnage": "Tyler Durden"
+    "Titre": "Les Minions",
+      ....
     },
     {
-      "Nom": "Edward Norton",
-      "Personnage": "Le narrateur (voix)"
-    },
-    {
-      "Nom": "Meat Loaf",
-      "Personnage": "Robert 'Bob' Paulsen"
+    "Titre": "Fight CLub",
+      ....
     }
-  ]
+    ]
 }
