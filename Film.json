@@ -1,9 +1,9 @@
-{  
+{
   "Titre": "Les Minions",
   "directeur": "Kyle Balda, Pierre Coffin",
   "Auteur": "Brian Lynch,",
   "Date": 2015,
-  "Films": [
+  "Vedette": [
     {
       "Nom": "Sandra Bullock",
       "Personnage": "Scarlet Overkill (voix)"
@@ -16,5 +16,5 @@
       "Nom": "Michael Keaton",
       "Personnage": "Walter Nelson (voix)"
     }
-    ]
+  ]
 }
