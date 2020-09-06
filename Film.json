@@ -10,22 +10,22 @@
     "Total": "336'045'770 $",
     "WorldWild" : "1'159'443'203 $",
     "Vedette": [
-                {
-                  "Nom": "Sandra Bullock",
-                  "Personnage": "Scarlet Overkill (voix)"
-                  "Age": "56 ans"
-                },
-                {
-                  "Nom": "Jon Hamm",
-                  "Personnage": "Herb Overkill  (voix)"
-                  "Age": "49 ans"
-                },
-                {
-                  "Nom": "Michael Keaton",
-                  "Personnage": "Walter Nelson (voix)"
-                  "Age": "69 ans"
-                }
-      ]
+                    {
+                      "Nom": "Sandra Bullock",
+                      "Personnage": "Scarlet Overkill (voix)"
+                      "Age": "56 ans"
+                    },
+                    {
+                      "Nom": "Jon Hamm",
+                      "Personnage": "Herb Overkill  (voix)"
+                      "Age": "49 ans"
+                    },
+                    {
+                      "Nom": "Michael Keaton",
+                      "Personnage": "Walter Nelson (voix)"
+                      "Age": "69 ans"
+                    }
+               ]
   },
     { 
     "Titre": "Fight Club",
@@ -37,21 +37,23 @@
     "Total": "336'045'770 $",
     "WorldWild" : "101'218'804 $",
     "Vedette": [
-                {
-                  "Nom": "Edward Norton",
-                  "Personnage": "Le narrateur"
-                  "Age": "51 ans"
-                },
-                {
-                  "Nom": "Brad Pitt",
-                  "Personnage": "Tyler Durden"
-                  "Age": "57 ans"
-                },
-                {
-                  "Nom": "Meat Loaf",
-                  "Personnage": "Robert 'Bob' Paulsen"
-                  "Age": "73 ans"
-                }
-      ]
-  },
+                        {
+                          "Nom": "Edward Norton",
+                          "Personnage": "Le narrateur"
+                          "Age": "51 ans"
+                        },
+                        {
+                          "Nom": "Brad Pitt",
+                          "Personnage": "Tyler Durden"
+                          "Age": "57 ans"
+                        },
+                        {
+                          "Nom": "Meat Loaf",
+                          "Personnage": "Robert 'Bob' Paulsen"
+                          "Age": "73 ans"
+                        }
+                ]
+        
+        ]
+  }
   
