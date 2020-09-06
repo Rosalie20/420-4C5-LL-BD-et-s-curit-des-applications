@@ -2,7 +2,7 @@
 "Films" : [
     { 
     "Titre": "Les Minions",
-    "Directeur": "Kyle Balda, Pierre Coffin",
+    "directeur": "Kyle Balda, Pierre Coffin",
     "Auteur": "Brian Lynch,",
     "Date": 2015,
     "Vedette": [
@@ -25,7 +25,7 @@
   },
     { 
     "Titre": "Fight Club",
-    "Directeur": "David Fincher",
+    "directeur": "David Fincher",
     "Auteur": "Jim UhIs",
     "Date": 1999,
     "Vedette": [
