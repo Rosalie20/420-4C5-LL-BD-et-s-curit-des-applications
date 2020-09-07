@@ -47,31 +47,8 @@
                           "Age": "73 ans"
                         }
                 ]
-          },
-     { 
-    "Titre": "Le Joker",
-    "directeur": "Todd Phillips",
-    "Auteur": "Todd Phillips, Scott Silver ",
-    "Date": 2019,
-    "Description": "Le film, qui relate une histoire originale inédite sur grand écran, se focalise sur la figure emblématique de l’ennemi juré de Batman. Il brosse le portrait d’Arthur Fleck, un homme sans concession méprisé par la société. ",
-    "Vedette": [
-                        {
-                          "Nom": "Edward Norton",
-                          "Personnage": "Le narrateur",
-                          "Age": "51 ans"
-                        },
-                        {
-                          "Nom": "Brad Pitt",
-                          "Personnage": "Tyler Durden",
-                          "Age": "57 ans"
-                        },
-                        {
-                          "Nom": "Meat Loaf",
-                          "Personnage": "Robert 'Bob' Paulsen",
-                          "Age": "73 ans"
-                        }
-                ]
           }
+    
         ]
   }
   
