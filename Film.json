@@ -47,6 +47,30 @@
                           "Age": "73 ans"
                         }
                 ]
+          },
+    { 
+    "Titre": "Fight Club",
+    "directeur": "David Fincher",
+    "Auteur": "Jim UhIs",
+    "Date": 1999,
+    "Description": "Norton joue le narrateur anonyme , mécontent de son travail de col blanc. Il forme un club de combat avec le vendeur de savon Tyler Durden (Pitt), et devient impliqué dans une relation avec lui et une femme démunie, Marla Singer (Bonham Carter)",
+    "Vedette": [
+                        {
+                          "Nom": "Edward Norton",
+                          "Personnage": "Le narrateur",
+                          "Age": "51 ans"
+                        },
+                        {
+                          "Nom": "Brad Pitt",
+                          "Personnage": "Tyler Durden",
+                          "Age": "57 ans"
+                        },
+                        {
+                          "Nom": "Meat Loaf",
+                          "Personnage": "Robert 'Bob' Paulsen",
+                          "Age": "73 ans"
+                        }
+                ]
           }
     
         ]
