@@ -6,6 +6,8 @@
     "Auteur": "Brian Lynch,",
     "Date": 2015,
     "Description": "Depuis la nuit des temps, les Minions, petites créatures jaunes à un ou deux yeux, à la fois toutes pareilles et tellement uniques, aiment se mettre au service des êtres les plus maléfiques.",
+    "Budget":"74 millions USD",
+    "Box-Office" : "1.159 milliard USD",
     "Vedette": [
                     {
                       "Nom": "Sandra Bullock",
@@ -30,6 +32,34 @@
     "Auteur": "Jim UhIs",
     "Date": 1999,
     "Description": "Norton joue le narrateur anonyme , mécontent de son travail de col blanc. Il forme un club de combat avec le vendeur de savon Tyler Durden (Pitt), et devient impliqué dans une relation avec lui et une femme démunie, Marla Singer (Bonham Carter)",
+    "Budget":"63 millions USD",
+    "Box-Office" : "101,2 millions USD",
+    "Vedette": [
+                        {
+                          "Nom": "Edward Norton",
+                          "Personnage": "Le narrateur",
+                          "Age": "51 ans"
+                        },
+                        {
+                          "Nom": "Brad Pitt",
+                          "Personnage": "Tyler Durden",
+                          "Age": "57 ans"
+                        },
+                        {
+                          "Nom": "Meat Loaf",
+                          "Personnage": "Robert 'Bob' Paulsen",
+                          "Age": "73 ans"
+                        }
+                ]
+          },
+     { 
+    "Titre": "Le Joker",
+    "directeur": "Todd Phillips",
+    "Auteur": "Todd Phillips, Scott Silver ",
+    "Date": 2019,
+    "Description": "Le film, qui relate une histoire originale inédite sur grand écran, se focalise sur la figure emblématique de l’ennemi juré de Batman. Il brosse le portrait d’Arthur Fleck, un homme sans concession méprisé par la société. ",
+    "Budget":"55 millions USD",
+    "Box-Office" : "$330 523 625",
     "Vedette": [
                         {
                           "Nom": "Edward Norton",
